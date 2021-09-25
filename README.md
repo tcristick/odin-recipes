@@ -1,1 +1,1 @@
-This project sourced from The Odin Project. The main goal is to create an easily scalable menu with several simple meals.
+This project sourced from The Odin Project. The main goal is to create an easily-scalable menu with several simple meals.
